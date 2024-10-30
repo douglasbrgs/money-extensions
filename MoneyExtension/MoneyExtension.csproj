@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>156c887699af47ebbc439fec743abe27MoneyExtensions</PackageId>
     <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Douglas Borges</Authors>
